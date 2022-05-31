@@ -22,9 +22,9 @@ Make sure the campers have the folder Files_For_Campers on their computer by the
 
 Have fun!
 
-## How to use on windows computers
+## How to use
 
-Watch the video how-to-use.mp4
+Watch the video [how-to-use.mp4](https://raw.githubusercontent.com/samgermain/codemakers_gamedev/master/how-to-use.mp4)
 
 # Camp Schedule
 
