@@ -261,7 +261,7 @@ bike.terrain = "Mountain"
 
 ```Lua
 for _, item in pairs(objects) do
-print(item)
+    print(item)
 end
 --Should print
 --1.2 m
@@ -608,7 +608,15 @@ To learn how to program a pencil tool on the screen
 
 ## SCIENTIFIC BASIS (learning outcomes - teach this)
 
-Drawing is done on the screen by connecting many lines together. When a shape is drawn like this It is done so by putting multiple straight lines onto the screen. Each line has 2 x coordinates and 2 y coordinates.
+Drawing is done on the screen by connecting many lines together. 
+
+When a shape is drawn like this 
+
+![](./imgs/pinball/line_ramp_loop.png)
+
+It is done so by putting multiple straight lines onto the screen. Each line has 2 x coordinates and 2 y coordinates.
+
+![](./imgs/pinball/old_new.png)
 
 There is an example of how to draw a line within `main.lua` in the pinball folder. It draws a line by default within the game.
 
@@ -644,9 +652,17 @@ if oldx then
 
 If `oldx` is not `nil` then draw a new line with `drawn_x` and `drawn_y` as the x1 and y1 coordinates, and `oldx` and `oldy` as the y1 and y2 coordinates. After the if statement set `oldx` and `oldy` to be equal to `drawn_x` and `drawn_y`, this is so you will have continuous lines.
 
-Notice how `drawn_x` and `drawn_y` in the picture above become `old_x` and `oldy`
+![](./imgs/pinball/old_new_2.png)
 
-**Setting `oldx` and `oldy` to nil**
+Notice how `drawn_x` and `drawn_y` in the picture above become `oldx` and `oldy`
+
+![](./imgs/pinball/old_new_3.png)
+
+### Setting `oldx` and `oldy` to nil
+
+![](./imgs/pinball/old_nil.png)
+
+![](./imgs/pinball/old_non_nil.png)
 
 
 ## Procedure
@@ -776,37 +792,55 @@ Some other tricks that will make your game better
 2. Basic animations
 3. Low enemy Hp
 4. High rate of fire
+
 ![](./imgs/game_tricks/many_bullets.png)
+
 5. More enemies
+
 ![](./imgs/game_tricks/many_bullets_many_bad_guys.png)
+
 6. Bigger bullets
+
 ![](./imgs/game_tricks/many_missiles.png)
+
 7. Muzzle Flash
+
 ![](./imgs/game_tricks/multiple_bullets.png)
+
 - There is a small yellow circle around the gun when the player shoots
+
 8. Faster Bullets
 9. Less accuracy
+
 ![](./imgs/game_tricks/double_bullets.png)
+
 10. Impact effects
+
 ![](./imgs/game_tricks/blast.png)
+
 - That cloud is from an enemy being hit
+
 11. Hit animation
+
 ![](./imgs/game_tricks/bad_guy_blast.png)
+
 - That white part is the same shape as an enemy and shows them being hit.
+
 12. Enemy knockback
-    - Enemies move back when you hit them
+- Enemies move back when you hit them
 13. Camera Position
 14. Player Knockback
-    - Player moves back when shooting
+- Player moves back when shooting
 15. Sleep
-    - Slight delay on impact
-        - Brain has more time to process the game when something important happens
+- Slight delay on impact
+    - Brain has more time to process the game when something important happens
 16. Gun delay
     - Gun lags behind character and looks like the character is carrying it
     - Gun kicks back
 17. Strafing
     - the technique of moving the player's character from side to side, rather than forward or backward
 18. Shoot multiple bullets at a time
+
 ![](./imgs/game_tricks/triangle_bullets.png)
 
 
