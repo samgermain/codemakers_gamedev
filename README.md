@@ -22,6 +22,9 @@ Make sure the campers have the folder Files_For_Campers on their computer by the
 
 Have fun!
 
+# How to use on windows computers
+
+Watch the video how-to-use.mp4
 
 # Camp Schedule
 
