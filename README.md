@@ -472,7 +472,7 @@ Go over the types of Scam’s people try to pull as described under security. Wa
 
 Give each kid a copy of Google_tips.pdf
 
-[Can the emmys be hacked (shows how fishing works)](https://www.youtube.com/watch?v=fs_eQQZEZRY)
+[Can the emmys be hacked (shows how phishing works)](https://www.youtube.com/watch?v=fs_eQQZEZRY)
 
 # ACTIVITY: Quidditch
 
