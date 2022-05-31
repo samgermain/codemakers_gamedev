@@ -8,8 +8,8 @@
 - ACTIVITY: First Game 
 - ACTIVITY: Digital Citizenship
 - ACTIVITY: Quidditch
-- ACTIVITY: Love hertz .
-- ACTIVITY: Pinball .......2
+- ACTIVITY: Love hertz
+- ACTIVITY: Pinball
 - Tricks that will make your game better
 - ACTIVITY: Liner Rider 
 - ACTIVITY: Line Rider Eraser
