@@ -460,19 +460,11 @@ https://www.youtube.com/watch?v=LTJygQwYV
 
 ## Procedure
 
-[Video on why you should care about privacy](https://www.youtube.com/watch?v=85mu9PLWCuI)
-
-Watch This video on privacy Codemakers- Gamedev\Videos_For_Digital_CitizenShip\privacy
-
-[Video on how to tell how reliable information is](https://www.youtube.com/watch?v=FxyKHp47EnQ)
-
-Go over the types of Scam’s people try to pull as described under security. Watch this video on Scam Baiting: codemakers- Gamedev\Videos_For_Digital_CitizenShip\Ted_Talk_On_Scambaiting.mp
-
-[Video on googling better](https://www.youtube.com/watch?v=LTJygQwYV)
-
-Give each kid a copy of Google_tips.pdf
-
-[Can the emmys be hacked (shows how phishing works)](https://www.youtube.com/watch?v=fs_eQQZEZRY)
+- [Video on why you should care about privacy](https://www.youtube.com/watch?v=85mu9PLWCuI)
+- [Video on how to tell how reliable information is](https://www.youtube.com/watch?v=FxyKHp47EnQ)
+- [Video on googling better](https://www.youtube.com/watch?v=LTJygQwYV)
+- Give each kid a copy of Google_tips.pdf
+- [Can the emmys be hacked (shows how phishing works)](https://www.youtube.com/watch?v=fs_eQQZEZRY)
 
 # ACTIVITY: Quidditch
 
